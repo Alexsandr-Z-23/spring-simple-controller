@@ -17,3 +17,5 @@
 
 - http://localhost:8080/
 - http://localhost:8080/pong
+<img width="356" height="140" alt="image" src="https://github.com/user-attachments/assets/f4394686-a996-4c9e-a14e-341a2b640c53" />
+<img width="294" height="136" alt="image" src="https://github.com/user-attachments/assets/1a0586b1-24b3-423b-855f-ca8d46fc0db8" />
